@@ -2,7 +2,18 @@
 
 
 
-
+@media (min-width:500px) {
+  .question{
+    text-size-adjust: 220%;
+  }
+  .options{
+    text-size-adjust: 220%;
+  }
+  .explanation{
+    text-size-adjust: 150%;
+  }
+  
+}
 
 body {
   font-family: 'Poppins', sans-serif;
