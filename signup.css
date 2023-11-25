@@ -1,0 +1,124 @@
+#pricing{
+    background-color: white;
+    padding-bottom: 30px;
+
+}
+
+.pricetitle{
+    margin-top: 50px;
+    font-weight: bold;
+    color: #66f;
+}
+
+.priceprompt{
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.headbody{
+    margin-bottom: 20px;
+}
+
+.check{
+    margin-right: 10px;
+}
+
+.month{
+    margin-right: 50px;
+}
+
+.form-check{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.card-body{
+    text-align: center;
+
+    /* max-width: 30%; */
+}
+
+.cardcol{
+    /* max-width: 25%; */
+    border-radius: 1.5rem;
+    margin-top: 20px;
+}
+
+.card{
+    border-radius: 1.5rem;
+}
+
+#price-options{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 200px;
+}
+
+.email{
+    text-align: center;
+    background-color: rgb(220, 220, 253);
+    /* margin-left: 20%;
+    margin-right: 20%; */
+    border-radius: 1.5rem;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+input:focus{
+    border-color: #66f;
+}
+
+.custom-search-input{
+    border: 2px solid white;
+    display:inline;
+    border-radius: 15px;
+    min-width: 30%;
+    padding: 5px;
+
+}
+
+.btnicon{
+    display:inline;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#btnimg{
+    width: 30px;
+}
+
+.custom-search-input:focus{
+    border-color: #66f;
+}
+
+h2{
+    color:#6666ff;
+}
+
+h3{
+    color:#6666ff;
+}
+
+.price-info{
+    font-weight: bold;
+    text-align: start;
+    margin-left: 20%;
+}
+
+.pricebtn{
+    color:white;
+    background-color: #6666ff;
+    
+}
+
+#basic-price,#pro,#premium{
+    margin-top: 20px;
+    font-size: xxx-large;
+    
+}
+
+#tymsg{
+    margin-top: 10px;
+    color: black;
+    display: none;
+}
