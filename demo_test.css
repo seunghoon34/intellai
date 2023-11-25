@@ -2,7 +2,7 @@
 
 
 
-@media (min-width:720px) {
+@media (max-width:768px) {
   .question{
     text-size-adjust: 220%;
   }
