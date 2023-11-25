@@ -2,7 +2,7 @@
 
 
 
-@media (max-width:768px) {
+@media (orientation: portrait) {
   .question{
     text-size-adjust: 220%;
   }
@@ -10,7 +10,7 @@
     text-size-adjust: 220%;
   }
   .explanation{
-    text-size-adjust: 150%;
+    text-size-adjust: 175%;
   }
   
 }
