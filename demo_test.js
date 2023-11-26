@@ -1,12 +1,12 @@
 const quizData = [
     {
       question: 'On Saturday afternoon, Armand sent m text messages each hour for 5 hours, and Tyrone sent ptext messages each hour for 4 hours. Which of the following represents the total number of messagessent by Armand and Tyrone on Saturday afternoon?',
-      options: ['9mp', '20mp', '5 + 4mp', '4 + 5mp'],
-      answer: '5 + 4mp',
+      options: ['9mp', '20mp', '5m + 4p', '4 + 5mp'],
+      answer: '5m + 4p',
       explanation:['The answer is choice C.', "<p>The total number of text messages sent by Armand can be found by multiplying his rate of texting, in number of text messages sent per hour, by the total number of hours he spent sending them; that is p texts/hour x 5 hours = 5m texts. Similarly, the total number of text messages sent by Tyrone is his hourly rate of texting multiplied by the 4 hours he spent texting: p texts/hour x 4 hours = 4p texts. The total number of text messages sent by Armand and Tyrone is the sum of the total number of messages sent by Armand and the total number of messages sent by Tyrone: 5m + 4p.</p> <p>Choice A is incorrect and arises from adding the coefficients and multiplying the variables of 5m and 4p. Choice B is incorrect and is the result of multiplying 5m and 4p. The total number of messages sent by Armand and Tyrone should be the sum of 5m and 4p, not the product of these terms. Choice D is incorrect because it multiplies Armand's number of hours spent texting by Tyrone's hourly rate of texting, and vice versa. This mix-up results in an expression that does not equal the total number of messages sent by Armand and Tyrone."],
     },
     {
-      question: '<p style="text-align: center;">3x + 4 y = -23</p> <p style="text-align: center;">2y - x = -19</p> What is the solution (x,y) to the system of equations above?',
+      question: '<p style="text-align: center;">3x + 4y = -23</p> <p style="text-align: center;">2y - x = -19</p> What is the solution (x,y) to the system of equations above?',
       options: ['(-5,-2)', '(3,-8)', '(4,-6)', '(9,-6)'],
       answer: '(3,-8)',
       explanation: ['The answer is Choice B','<p>Adding x and 19 to both sides of 2y - x = -19 gives x = 2y + 19. Then, substituting 2y + 19 for x in 3x + 4y = -23 gives 3(2y + 19) + 4y= -23 gives y=-8. Finally, substituting -8 for y in 2y - x = -19 gives 2(-8) - x = -19, or x = 3. Thererefore, the solution (x,y) to the given system if equations is (3,-8).</p> <p>Choices A, C, and D are incorrect because when the given values of x and y are substituted in 2y-x=-19, the value of the left side of the equation does not equal -19 </p>'],
